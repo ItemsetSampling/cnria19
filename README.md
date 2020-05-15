@@ -15,29 +15,54 @@
 * Maximal length constraint : in {2, 3, 4, 5, 6, 7}
 *                          GOOD LUCK!!
 *******************************************************************************
+
 auto
+
 	M = 2
+	
 		Preprocessing time : 1.0 ms
+		
 		Sampling time : 2.0 ms
+		
 		Distinct sampled patterns : 858
+		
 	M = 3
+	
 		Preprocessing time : 1.0 ms
+		
 		Sampling time : 1.0 ms
+		
 		Distinct sampled patterns : 992
+		
 	M = 4
 		Preprocessing time : 1.0 ms
+		
 		Sampling time : 2.0 ms
+		
 		Distinct sampled patterns : 1000
+		
 	M = 5
+	
 		Preprocessing time : 2.0 ms
+		
 		Sampling time : 3.0 ms
+		
 		Distinct sampled patterns : 1000
+		
 	M = 6
+	
 		Preprocessing time : 3.0 ms
+		
 		Sampling time : 3.0 ms
+		
 		Distinct sampled patterns : 1000
+		
 	M = 7
+	
 		Preprocessing time : 1.0 ms
+		
 		Sampling time : 3.0 ms
+		
 		Distinct sampled patterns : 1000
+		
 ************************************ END *************************************
