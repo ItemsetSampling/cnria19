@@ -20,7 +20,7 @@ auto
 
 	M = 2
 	
-		Preprocessing time : 1.0 ms
+		Preprocessing time : 0.0 ms
 		
 		Sampling time : 2.0 ms
 		
@@ -30,7 +30,7 @@ auto
 	
 		Preprocessing time : 1.0 ms
 		
-		Sampling time : 1.0 ms
+		Sampling time : 2.0 ms
 		
 		Distinct sampled patterns : 992
 		
