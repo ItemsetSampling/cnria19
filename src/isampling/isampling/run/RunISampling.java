@@ -24,7 +24,7 @@ public class RunISampling {
 		Integer [] sizeOfSamples = {1000};
 		Integer sampleSize = sizeOfSamples[0];
 		Integer [] maxLength = {2,3,4,5,6,7};
-		//Double alpha = 0.017;
+		Double alpha = 0.017;
 		boolean recordSample=true;
 		System.out.println("*******************************************************************************\n"
 						+ "* version 1.0\n"
